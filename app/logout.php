@@ -1,5 +1,3 @@
 <?php
-session_start();
-unset($_SESSION['logado']);
-header('Location: /admin');
-die;
+session_destroy();
+die("<script>location.href = '/admin';</script>");
