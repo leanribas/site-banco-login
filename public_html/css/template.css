@@ -1,0 +1,50 @@
+#logo {
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+.flutuar-img {
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.flutuar-right {
+	float: right;
+}
+.flutuar-ico {
+	float: left;
+	margin-right: 5px;
+}
+
+.search-result-item {
+  margin: 0 -10px 20px;
+  padding: 0 10px 15px;
+  border-bottom: 1px solid #ECEBEB;
+}
+
+.search-result-item h4 a{
+  color: #E6400C;
+  font-weight: 100;
+}
+
+.container .login {
+        max-width: 400px;
+        margin-top: 40px;
+}
+
+#thumbnail-paginas{
+    margin-bottom: 45px;
+    height: 210px
+}
+
+.titulo-admin h2{
+    margin: 0;
+}
+
+#modalEditor .modal-body{    
+    max-height: 80%;
+}
+
+.modal-lg{
+    width: 80%;
+    max-height: 80%;
+}
